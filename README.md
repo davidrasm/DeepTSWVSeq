@@ -1,7 +1,7 @@
 # DeepTSWVSeq
- Python scipts used to analyze TSWV deep viral sequence data in:
+ Python scipts used to analyze TSWV deep sequence data in:
  
- Ruark-Seward, Kennedy & Rasmussen. (2020). Evolutionary dynamics of Tomato spotted wilt virus within and between alternate plant hosts and thrips. *in prep*
+ Ruark-Seward, Kennedy & Rasmussen. (2020). Evolutionary dynamics of *Tomato spotted wilt virus* within and between alternate plant hosts and thrips. *in prep*
  
  Main scripts used for data processing/analysis include:
  
